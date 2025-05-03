@@ -1,12 +1,10 @@
 <img src="./src/assets/coding.jpg" width="100%" height="150" alt="cover" />
-<h1 style="text-align: center; margin-bottom: 0;">Hi 👋, I'm EMMANUEL</h1>
-<p style="text-align: center; margin-top: 0;">
-  I am a frontend developer based in Ibadan, Nigeria, where I turn 
-  <span style="color: green;">ideas</span> into 
-  <span style="color: green;">web reality</span> with a passion for creating 
-  beautiful and functional web applications. My love for technology drives me to 
-  stay ahead of the curve, always learning and embracing new possibilities.
-</p>
+<div style="text-align: center; margin-bottom: 20px;">
+  <h1 style="margin-bottom: 0;">Hi 👋, I'm EMMANUEL</h1>
+  <p style="margin-top: 0;">
+    I am a frontend developer based in Ibadan, Nigeria, where I turn ideas into web realitywith a passion for creating beautiful and functional web applications. My love for technology drives me to stay ahead of the curve, always learning and embracing new possibilities.
+  </p>
+</div>
 
 ---
 
@@ -31,6 +29,22 @@
 
 ---
 
+### 🌐 Socials
+
+<div style="text-align: center; margin-top: 10px;">
+  <a href="https://github.com/Royal-design" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuel-olowookere-869262216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:royaldesign1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: flex-start;">
@@ -45,9 +59,11 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **NEXT JS**
-- 👨‍💻 All of my projects are available at [my portfolio](https://emmanuel-dev-portfolio.vercel.app/)
-- 💬 Ask me about **React, Git, or clean UI, API comsummation, Reusable code**
-- 📫 How to reach me: [mail me](mailto:royaldesign1999@gmail.com)
+- 🌱 I’m currently deepening my knowledge in **Next.js**, focusing on server-side rendering (SSR), static site generation (SSG), API routes, authentication, and performance optimization. I’m also exploring the **App Router**, middleware, and advanced routing features introduced in the latest versions.
+- 💼 I enjoy working with modern stacks like **React, TypeScript, TailwindCSS, Redux, and Firebase** and I'm passionate about building scalable and maintainable frontend architectures.
+- 👨‍💻 Check out my projects and live demos at [my portfolio](https://emmanuel-dev-portfolio.vercel.app/).
+- 💬 I love talking about clean UI, state management, API integration, Git workflows, and building **reusable, performant components**.
+- 🧠 I continuously stay updated with best practices, dev tools, and new features in the React ecosystem.
+- 📫 Reach me any time via [royaldesign1999@gmail.com](mailto:royaldesign1999@gmail.com)
 
 ---
