@@ -1,4 +1,4 @@
-<img src="./src/assets/emmanuelcover.jpg" width="100%" height="150" alt="cover" />
+<img src="src/assets/emmanuelcover.jpg" width="100%"  alt="cover" />
 <div style="text-align: center; margin-bottom: 20px; line-height: 1.2;">
 
   <p style="margin: 0;">
