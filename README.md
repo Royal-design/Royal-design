@@ -1,5 +1,4 @@
-<img src="src/assets/coding.jpg" width="100%" height="150" alt="cover" />
-
+<img src="./src/assets/coding.jpg" width="100%" height="150" alt="cover" />
 <h1 style="text-align: left;">Hi 👋, I'm EMMANUEL</h1>
 <h3 style="text-align: left;">A passionate Frontend Developer from Ibadan</h3>
 
@@ -22,17 +21,16 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; flex-wrap: nowrap; gap: 10px; justify-content: flex-start;">
- <p style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Royal-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<!-- GitHub Stats (Stars) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Royal-design&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<p style="text-align: left;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Royal-design&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- GitHub Streak Stats (Commits) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Royal-design&theme=tokyonight" alt="GitHub Streak" />
 
-<p style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-design&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Royal-design&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Royal-design&theme=tokyonight" alt="GitHub Streak" />
+
 </div>
 
 ---
