@@ -1,8 +1,10 @@
 <img src="./src/assets/coding.jpg" width="100%" height="150" alt="cover" />
+<div style="text-align: center; margin-bottom: 20px; line-height: 1.2;">
 
-# Hi 👋, I'm EMMANUEL
-
-## I am a frontend developer based in Ibadan, Nigeria, where I turn ideas into web reality with a passion for creating beautiful and functional web applications. My love for technology drives me to stay ahead of the curve, always learning and embracing new possibilities.
+  <p style="margin: 0;">
+    I am a frontend developer based in Ibadan, Nigeria, where I turn ideas into web reality with a passion for creating beautiful and functional web applications. My love for technology drives me to stay ahead of the curve, always learning and embracing new possibilities.
+  </p>
+</div>
 
 ---
 
