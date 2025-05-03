@@ -1,6 +1,9 @@
 <img src="./src/assets/coding.jpg" width="100%" height="150" alt="cover" />
-<h1 style="text-align: left;">Hi 👋, I'm EMMANUEL</h1>
-<h3 style="text-align: left;">A passionate Frontend Developer from Ibadan</h3>
+<h1 style="text-align: center; margin-bottom: 0;">Hi 👋, I'm EMMANUEL</h1>
+<p style="text-align: center; margin-top: 0;">
+  I am a frontend developer based in Ibadan, Nigeria, where I turn <span style="color: green;">ideas</span> into 
+<span style="color: green;">web reality</span> with a passion for creating beautiful and functional web applications. My love for technology drives me to stay ahead of the curve, always learning and embracing new possibilities.
+</p>
 
 ---
 
@@ -33,14 +36,8 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **NEXT JS**
-- 👨‍💻 All of my projects are available at [yourportfolio.com](https://emmanuel-dev-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://emmanuel-dev-portfolio.vercel.app/)
 - 💬 Ask me about **React, Git, or clean UI, API comsummation, Reusable code**
-- 📫 How to reach me: [your.email@example.com](mailto:royaldesign1999@gmail.com)
+- 📫 How to reach me: [mail me](mailto:royaldesign1999@gmail.com)
 
 ---
-
-### ☕ Support Me
-
-<p style="text-align: left;">
-  <a href="https://www.buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" /></a>
-</p>
