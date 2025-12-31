@@ -54,21 +54,28 @@ My focus is on **performance, accessibility, and maintainable UI architecture**,
 
 ## 🌐 Portfolio & Links
 
-- 👨‍💻 Portfolio: **https://emmanuel-developer.vercel.app/**
-- 🐙 GitHub: **https://github.com/Royal-design**
-- 💼 LinkedIn: **https://www.linkedin.com/in/emmanuel-olowookere-869262216/**
-- 📫 Email: **olowookereoluwaseun25@gmail.com**
+<p align="left">
 
-<p align="center">
-  <a href="https://github.com/Royal-design">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://emmanuel-developer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/emmanuel-olowookere-869262216/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://github.com/Royal-design" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:olowookereoluwaseun25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/emmanuel-olowookere-869262216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <a href="mailto:olowookereoluwaseun25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://x.com/web_developer07" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+
 </p>
 
 ---
