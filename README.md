@@ -1,4 +1,4 @@
-<img src="/emmanuel.jpg" width="100%"  alt="cover" />
+<img src="src/assets/emmanuel.jpg" width="100%"  alt="cover" />
 <div style="text-align: center; margin-bottom: 20px; line-height: 1.2;">
  <h1 style="margin: 0;">Hi 👋, I'm EMMANUEL</h1>
   <p style="margin: 0;">
