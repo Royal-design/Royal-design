@@ -1,6 +1,6 @@
-<img src="src/assets/emmanuel2.jpg" width="100%"  alt="cover" />
+<img src="src/assets/emmanuel2.jpg" width="100%" height="100%"  alt="cover" />
 <div style="text-align: center; margin-bottom: 20px; line-height: 1.2;">
- <h1 style="margin: 0;">Hi 👋, I'm EMMANUEL</h1>
+ <h1 style="margin: 0;">Hi 👋, I'm EMMANUE</h1>
   <p style="margin: 0;">
     I am a frontend developer based in Ibadan, Nigeria, where I turn ideas into web reality with a passion for creating beautiful and functional web applications. My love for technology drives me to stay ahead of the curve, always learning and embracing new possibilities.
   </p>
